@@ -9,8 +9,8 @@ insert sletch
 # For a B
 
 # Include the general information in your sketch: personalized calendar, news feed, text messages, social feed items, clock, and weather.
-Here I implemented a weather API that was taught by Jake in class, I also implemented a clock using logic and a news API but I ran into the issue of not being to 
-display it on the mirror itself where I wanted it so I guess it's basically on the botton cut of the "mirrir".
+Here I implemented a weather API that was taught by Jake in class, I also implemented a clock using logic along with a digital time and date and a news API but I ran into the issue of not being to 
+display it on the mirror itself where I wanted it so I guess it's basically on the botton cut of the "mirror".
 
 # Include the health-related information in your sketch: sleep, weight, exercises, and mirror time.
 Here I provided the Sleep app on the iphone and the step counter as well. 
